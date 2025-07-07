@@ -3,8 +3,10 @@ ServerEvents.tags('item', event => {
     event.add('forge:salt', 'ratatouille:salt');//乡村乐事盐
     event.add('forge:salt', 'hearthandharvest:salt'); //暖灶丰年盐
 });
+
+活爹乐事
+Huodie's Delight
 */
-//活爹乐事
 
 ServerEvents.tags('item', event => {
     event.add('forge:plum', 'bountifulfares:plum');
