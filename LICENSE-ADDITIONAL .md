@@ -143,6 +143,7 @@
 
 
 ##English document
+
 # Anti-Misuse Public License (AMPL)
 Version: 1.0
 Signed by: y271727uy
