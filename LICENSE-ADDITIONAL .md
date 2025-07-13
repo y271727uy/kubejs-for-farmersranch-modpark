@@ -142,7 +142,6 @@
 2025 年 7 月 13 日 21:11
 
 
-##English document
 
 # Anti-Misuse Public License (AMPL)
 Version: 1.0
